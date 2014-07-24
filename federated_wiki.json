@@ -1,0 +1,341 @@
+{
+  "bloggartenkartede": [],
+  "gartenkarte": [
+    "vorgehensweisen",
+    "grtnerkarten"
+  ],
+  "missing-page": [],
+  "perpetual-beta": [
+    "projekt-oxford",
+    "jonrichterde",
+    "geosemantikde",
+    "almereydade"
+  ],
+  "bloggeosemantikde": [],
+  "ubuntu": [],
+  "recent-submissions": [
+    "submit-changes",
+    "about-activity-plugin"
+  ],
+  "welcome-visitors": [
+    "smallest-federated-wiki",
+    "git-branching-model",
+    "how-to-wiki",
+    "recent-changes"
+  ],
+  "welcome-visitors-alt": [
+    "smallest-federated-wiki",
+    "almereyda-wiki"
+  ],
+  "ward-cunningham": [
+    "federated-wiki"
+  ],
+  "geosemantikde": [
+    "publicspaceinvadersorg",
+    "alphapublicspaceinvadersorg",
+    "bloggartenkartede",
+    "bloggeosemantikde"
+  ],
+  "get-iplayer": [],
+  "learn-wiki-by-doing-wiki": [],
+  "allmendeio": [
+    "jon-richter"
+  ],
+  "wikis-in-der-farm": [],
+  "wikifarm": [
+    "smallest-federated-wiki",
+    "nginx",
+    "nodejs",
+    "wchnio",
+    "wikichnio",
+    "rchnio",
+    "schnio",
+    "gchnio",
+    "wikialmereydade",
+    "wid22net"
+  ],
+  "sites-in-the-neighbourhood": [],
+  "events": [],
+  "cybernetics": [
+    "cybernetics",
+    "baumschulenweg",
+    "oberschneweide",
+    "wikifarm",
+    "can-lichtsteuerung",
+    "selbstorganisation",
+    "circusdev",
+    "chnio"
+  ],
+  "englisch": [],
+  "circus-homo-novus": [
+    "podcast",
+    "cybernetics"
+  ],
+  "studium": [],
+  "podcast": [],
+  "livio": [],
+  "anbindung-can-kaktariumsuhr": [
+    "spi",
+    "twi-atmelic-philips",
+    "uart",
+    "verbindung-mit-dem-raspi",
+    "bus-protokoll"
+  ],
+  "anarchie": [
+    "anarchie",
+    "sandkasten"
+  ],
+  "baumschulenweg": [],
+  "bittorrent-sync": [
+    "qchnio",
+    "syncppmdev"
+  ],
+  "bus-protokoll": [
+    "can-lichtsteuerung",
+    "genauigkeit",
+    "status-befehl",
+    "programm",
+    "set",
+    "get",
+    "sync",
+    "uart"
+  ],
+  "circusdev": [
+    "dd-wrt",
+    "openwrt",
+    "baumschulenweg",
+    "oberschneweide"
+  ],
+  "can-lichtsteuerung": [
+    "can-lichtsteuerung",
+    "verbindung-mit-dem-raspi",
+    "bus-protokoll",
+    "anbindung-can-kaktariumsuhr",
+    "raspberry-pi",
+    "gitlab",
+    "trello",
+    "gpio",
+    "spi",
+    "webiopi",
+    "python",
+    "flask",
+    "wiringpi"
+  ],
+  "chnio": [
+    "httpchnio",
+    "bittorrent-sync"
+  ],
+  "dateisysteme": [
+    "gitlab",
+    "git",
+    "owncloud",
+    "bittorrent-sync"
+  ],
+  "dropbox": [
+    "dbinbox",
+    "filepickerio"
+  ],
+  "flask": [
+    "python"
+  ],
+  "e-mail-service-distinction": [],
+  "gchnio": [],
+  "genauigkeit": [],
+  "get": [
+    "get"
+  ],
+  "glossar": [
+    "sandkasten"
+  ],
+  "httpchnio": [
+    "wordpress"
+  ],
+  "ic-einrichtung": [],
+  "ic-python": [
+    "python-smbus",
+    "smbus",
+    "ic-python-codebeispiel",
+    "gpio",
+    "uart",
+    "ic",
+    "spi",
+    "raspberry-pi",
+    "wiring",
+    "arduino"
+  ],
+  "kommunikationsinfrastruktur": [
+    "bulletin-boards",
+    "e-mail",
+    "mailinglisten",
+    "jabber"
+  ],
+  "ic-quellen": [],
+  "ic-python-codebeispiel": [],
+  "programm": [],
+  "oberschneweide": [],
+  "qchnio": [],
+  "selbsthosting": [
+    "dateisysteme",
+    "kommunikationsinfrastruktur",
+    "webpublishing"
+  ],
+  "sandkasten": [
+    "circus-homo-novus",
+    "glossar",
+    "livio",
+    "e-mail-service-distinction"
+  ],
+  "selbstorganisation": [
+    "software",
+    "der-schnde-mammon",
+    "netiquette"
+  ],
+  "smbus": [
+    "python-smbus"
+  ],
+  "software": [
+    "verschlsselung",
+    "selbsthosting",
+    "dezentral",
+    "verteilt",
+    "raspberry-pi",
+    "textarbeit",
+    "strukturwerkzeuge",
+    "speicher"
+  ],
+  "set": [
+    "set",
+    "sync"
+  ],
+  "speicher": [
+    "drive",
+    "dropbox",
+    "github",
+    "git",
+    "owncloud",
+    "bittorrent-sync"
+  ],
+  "spi": [],
+  "strukturwerkzeuge": [
+    "fargo",
+    "zeit",
+    "cacoo",
+    "mindmeister",
+    "gingko",
+    "treesheets",
+    "trello",
+    "prezi"
+  ],
+  "sync": [
+    "sync",
+    "set"
+  ],
+  "trello": [],
+  "twi-atmelic-philips": [
+    "warum-twi",
+    "twiic---implementierungen",
+    "ic-quellen",
+    "ic-einrichtung",
+    "ic-python",
+    "nodejs"
+  ],
+  "status-befehl": [
+    "status-befehl"
+  ],
+  "twiic---implementierungen": [],
+  "textarbeit": [
+    "gingko",
+    "draft",
+    "editorially",
+    "stackedit",
+    "downmarker",
+    "sublime-text",
+    "pspad",
+    "notepad2"
+  ],
+  "uart": [
+    "smbus"
+  ],
+  "verbindung-mit-dem-raspi": [
+    "raspberry-pi",
+    "bus-protokoll",
+    "spi",
+    "uart",
+    "twi-atmelic-philips"
+  ],
+  "warum-twi": [],
+  "verschlsselung": [
+    "vpn",
+    "tls",
+    "cacert"
+  ],
+  "webpublishing": [
+    "no-wwworg",
+    "unhostingorg",
+    "remotestorageio",
+    "wiki",
+    "etherpad-lite",
+    "wordpress"
+  ],
+  "zeit": [
+    "teamweek",
+    "toggl",
+    "preceden",
+    "trello"
+  ],
+  "ziele-der-anbindung": [],
+  "how-does-your-session-contribute-to-okfestivals-narrative-and-aims": [],
+  "how-would-the-session-be-structured": [],
+  "session-outcomes": [],
+  "session-motivation": [],
+  "open-knowledge-fest": [
+    "session-title",
+    "session-description",
+    "session-motivation",
+    "how-would-the-session-be-structured",
+    "how-does-your-session-contribute-to-okfestivals-narrative-and-aims",
+    "session-outcomes",
+    "will-your-session-involve-physical-movement"
+  ],
+  "session-title": [],
+  "will-your-session-involve-physical-movement": [],
+  "session-description": [
+    "how-can-we-break-up-the-data-silos-to-map-the-diversity-of-the-alternative-economy-",
+    "how-to-get-thousands-of-collaborative-and-local-initiatives-on-one-up-to-date-map-"
+  ],
+  "grtnerkarten": [
+    "wissenslandkarte",
+    "gartenkarte-remix"
+  ],
+  "vorgehensweisen": [],
+  "erste-hilfe": [],
+  "how-to-wiki": [
+    "frequently-asked-questions",
+    "add-text",
+    "add-paragraphs",
+    "add-pages",
+    "remove-paragraphs",
+    "move-paragraphs",
+    "host-a-site",
+    "add-plugins"
+  ],
+  "wohnportal": [
+    "drupal",
+    "trello",
+    "toggl",
+    "teamweek",
+    "gitlab",
+    "wiki",
+    "tracker",
+    "ssh-zugnge",
+    "erste-hilfe"
+  ],
+  "diskussionsantworten": [],
+  "diskussionsfragen": [
+    "diskussionsantworten"
+  ],
+  "git-branching-model": [
+    "git-branching-model-links"
+  ],
+  "git-branching-model-links": []
+}
